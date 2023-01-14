@@ -3,8 +3,9 @@ BetterSort V3.0<br>
 
 BetterSort V3.0 offers new functionality in that now a histogram of data is displayed along with the sorted array.
 
-This is a simple python script utilizing the BetterSort Algorithm, a modified Flash Sort.
-HOWTO In your command console, run this command in the directory where you saved BetterSort.py:
+This is a simple python script utilizing the BetterSort Algorithm, a modified Flash Sort.<br>
+
+<b><i><u>**HOWTO**</b></u></i> In your command console, run this command in the directory where you saved BetterSort.py:
 pyinstaller BetterSort.py --onefile -w
 This will create a standalone .exe that will open a TKinter window with a GUI for inputting data sets. Please make sure all numbers are separated with a comma then space. Use the clear button before entering new data. After the data is sorted, a text file named sorted data will be created in the folder where the .exe is run from.
 
