@@ -1,4 +1,4 @@
-BetterSort V3.0
+BetterSort V3.0<br>
 <img src="bsv3cover.png">
 
 BetterSort V3.0 offers new functionality in that now a histogram of data is displayed along with the sorted array.
