@@ -5,7 +5,7 @@ BetterSort V3.0 offers new functionality in that now a histogram of data is disp
 
 This is a simple python script utilizing the BetterSort Algorithm, a modified Flash Sort.<br>
 <hr>
-<b><i><u>HOW TO:</b></u></i> In your command console, run this command in the directory where you saved BSV3.py:
+<b><i><u>HOW TO:</b></u></i> In your command console, run this command in the directory where you saved BSV3.py:<br>
 pyinstaller BSV3.py --onefile -w<br>
 This will create a standalone .exe that will open a TKinter window with a GUI for inputting data sets. Please make sure all numbers are separated with a comma then space. Use the clear button before entering new data. After the data is sorted, a text file named sorted data will be created in the folder where the .exe is run from.
 <br><hr>
